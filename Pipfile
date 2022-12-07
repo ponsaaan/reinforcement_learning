@@ -7,6 +7,8 @@ name = "pypi"
 numpy = "*"
 matplotlib = "*"
 dezero = "*"
+gym = "*"
+pygame = "*"
 
 [dev-packages]
 
